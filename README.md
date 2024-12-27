@@ -1,5 +1,6 @@
 # GenAI-Projects and Related Skills 
-## Generative AI Fundamentals: 
+## Generative AI Fundamentals: Architecture 
+## Lightweight Fine-Tuning with Hugging Face PEFT
 - Generative AI Fluency
 - Image classification
 - Transfer learning
